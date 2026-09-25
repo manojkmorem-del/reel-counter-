@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="accessibility_desc">Tracks reel scrolling to monitor screen time.</string>
+</resources>
